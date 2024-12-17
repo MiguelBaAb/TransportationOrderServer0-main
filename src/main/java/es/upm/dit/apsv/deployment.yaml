@@ -60,7 +60,7 @@ spec:
 
       - name: transportationorderserver
 
-        image: ghcr.io/MiguelBaAb/tos
+        image: ghcr.io/miguelbaab/tos
 
         ports:
 

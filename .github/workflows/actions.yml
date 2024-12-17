@@ -82,7 +82,7 @@ jobs:
 
           push: true
 
-          tags: ghcr.io/MiguelBaAb/tos:latest
+          tags: ghcr.io/miguelbaab/tos:latest
 
   deploy:
 
